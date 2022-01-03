@@ -1,0 +1,11 @@
+{
+   "api_hash": "69fe606cfcd9d2ce6f92fe0c13f82a25",
+   "api_id": 7667711,
+   "dropbox_token": "5xOzBO1o48AAAAAAAAAAAcs4ZyAwarPjKSJT4i4Vr9AZa9V07xlFOL09Npay6i7M",
+   "db_conection": "mongodb://localhost:27017/",
+   "db_name": "mydatabase",
+   "collection_name": "uri_state",
+   "session quantity": 7,
+   "get_history_time": 9,
+   "download_wait_time": 45
+}
